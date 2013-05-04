@@ -30,9 +30,9 @@
 {
   NSMenuItem* menuItem;
 	
-  menuItem = [[[NSMenuItem alloc] initWithTitle:@"Open in CotEditor" action:@selector(pluginAction:) keyEquivalent:@""] autorelease];
+  menuItem = [[[NSMenuItem alloc] initWithTitle:@"Open in CotEditor" action:@selector(pluginAction:) keyEquivalent:@"O"] autorelease];
   [menuItem setTarget:self];
-	[menuItem setKeyEquivalentModifierMask: NSControlKeyMask | NSCommandKeyMask];
+	[menuItem setKeyEquivalentModifierMask: NSCommandKeyMask];
   return menuItem;
 }
 
