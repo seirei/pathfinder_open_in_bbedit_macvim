@@ -9,6 +9,7 @@ Get compiled binaries, unzip and move into `~/Library/Application Support/Path F
 
  -   [macvim plugin](https://github.com/downloads/danmichaelo/pathfinder_open_in_bbedit_macvim/pathfinder_open_in_macvim-1.2.zip)
  -   [bbedit plugin](https://github.com/downloads/danmichaelo/pathfinder_open_in_bbedit_macvim/pathfinder_open_in_bbedit-1.2.zip)
+ -   [coteditor plugin](https://github.com/seirei/pathfinder_open_in_bbedit_macvim_coteditor/blob/master/pathfinder_open_in_coteditor.plugin.zip?raw=true)
 
 ## Installation the hard way
 
